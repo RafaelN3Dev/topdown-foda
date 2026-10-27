@@ -20,6 +20,6 @@ public class InputManager
 
     public void DisableInput()
     {
-
+        inputControls.Disable();
     }
 }
